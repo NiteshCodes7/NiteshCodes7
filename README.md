@@ -35,5 +35,5 @@ Transforms PDFs into AI-generated reels with subscriptions and secure user flows
 - Open Source Contributions
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/nitesh-ghosh-844a77290?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: www.linkedin.com/in/nitesh-ghosh-844a77290
 - Email: workwithnitesh@gmail.com
